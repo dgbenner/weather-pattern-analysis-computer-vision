@@ -3,6 +3,7 @@
 ## Simple Scope
 
 Processing and analyzing weather satellite imagery from Meteor-M passes over Minneapolis-St. Paul.
+Consider Replit.com for a ML-backed database for analysis. $20 a month and will build databases and architecture (or promises to in my demo build comments https://weather-eye--bennerdan.replit.app/ )
 
 ## What This Does
 
